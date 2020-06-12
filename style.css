@@ -80,6 +80,7 @@ span {
     cursor: pointer;
     position: relative;
     z-index: 99;
+    filter: brightness(0) invert(1);
   }
   .ham:focus {
     outline: none;
